@@ -99,6 +99,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Author
 
 - **Arash Dolati Mehr**
+  - Email: arash.dolati.m@live.com
+  - LinkedIn: [Arash Dolati Mehr](https://www.linkedin.com/in/arashdolatimehr/)
 
 ## Acknowledgments
 
